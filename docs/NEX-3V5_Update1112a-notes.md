@@ -1,6 +1,6 @@
 # Notes on NEX-3V5_Update1112a
 
-Firmware extraction done with [https://github.com/ma1co/fwtool.py](ma1co's fwtool.py).
+Firmware extraction done with [ma1co's fwtool.py](https://github.com/ma1co/fwtool.py).
 
 ## /0800_appli/usr/bin/app/main
 

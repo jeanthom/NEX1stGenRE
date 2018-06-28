@@ -8,5 +8,5 @@ This GitHub repository is meant to publish research work and resources for 1st-g
 
 ## Other people hacking NEX cameras
 
- * [https://github.com/ma1co](ma1co's GitHub) : Mostly PlayMemories stuff
- * [https://web.archive.org/web/20130306023707/http://www.nex-hack.info/wiki/](nex-hack wiki, early NEX hacking (archive.org))
+ * [ma1co's GitHub](https://github.com/ma1co) : Mostly PlayMemories stuff
+ * [nex-hack wiki, early NEX hacking (archive.org)](https://web.archive.org/web/20130306023707/http://www.nex-hack.info/wiki/)
