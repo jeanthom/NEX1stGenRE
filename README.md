@@ -1,6 +1,6 @@
 # Reverse engineering 1st gen Sony NEX cameras
 
-This GitHub repository is meant to publish research work and resources for 1st-gen Sony NEX reverse engineering. 1st gen NEX equipements include :
+This GitHub repository is meant to publish research work and resources for 1st-gen Sony NEX reverse engineering. 1st gen NEX equipments include :
 
     * Sony NEX-3
     * Sony NEX-5
