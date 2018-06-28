@@ -2,8 +2,8 @@
 
 Someone 1.00's, a hacker from the early NEX hacking scene, built a few years ago a patcher that could alter camera region so that the camera language could be set to English if it was bought in Japan. The patcher was a Windows executable available on the [nex-hack website (archive.org link)](https://web.archive.org/web/20160305005438/http://nex-hack.info/wiki/_media/nex3.jap2eng.patcher.zip).
 
-    * md5(nex3.jap2eng.patcher.zip) = 33b2bb7969d7ce7881b2263a80b0cd48
-    * md5(Nex3.Jap2Eng.Patcher.exe) = e485aa28c2fc67cbfca0cf5d46523370
+* md5(nex3.jap2eng.patcher.zip) = 33b2bb7969d7ce7881b2263a80b0cd48
+* md5(Nex3.Jap2Eng.Patcher.exe) = e485aa28c2fc67cbfca0cf5d46523370
 
 I tried to load it into a disassembler, and found the following strings :
 
